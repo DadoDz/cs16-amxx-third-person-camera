@@ -23,4 +23,4 @@ Players can easily toggle between **first-person** and **third-person** perspect
 5. Restart your server.
 
 ## Notice
-This concept is **not an original idea**, third person camera plugins already exist for Counter-Strike 1.6, however this version was **fully written by DadoDz**.
+This concept is **not an original idea**, third person camera plugins already exist for Counter-Strike 1.6, however this version was fully written by **DadoDz**.
